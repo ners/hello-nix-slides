@@ -1,0 +1,11 @@
+name: hello
+version: 0.0.1
+
+dependencies:
+  - base
+  - http-types
+  - wai
+  - warp
+
+executable:
+  main: Main.hs
